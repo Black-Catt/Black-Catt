@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Black-Catt
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on with people who also learning JS
+- 💞️ I’m looking to collaborate  with people who also learning JS
 - 📫 How to reach me zaharchenko3500@gmail.com
 
 <!---
